@@ -2,3 +2,6 @@ name = input("what is your name")
 age = input("what is your age")
 address = input("what is address")
 print ("Hi",name, "you are", age, "and live in",address)
+print ("let's start some calculation")
+print ("x = 9 and y = 8 what's the result of x + y ?")
+
